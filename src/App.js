@@ -3,11 +3,11 @@ import { useState } from "react";
 // ============================================================
 //  CONFIGURACION  ->  RELLENA ESTOS VALORES CON LOS TUYOS
 // ============================================================
-const USUARIOS_URL      = "https://REEMPLAZA.execute-api.us-east-1.amazonaws.com";     // el que tenga /usuarios
-const CURSOS_URL        = "https://REEMPLAZA.execute-api.us-east-1.amazonaws.com";     // el que tenga /cursos
-const INSCRIPCIONES_URL = "https://m2islafbrf.execute-api.us-east-1.amazonaws.com";    // confirmado: inscripciones
-const REGION            = "us-east-1";
+const USUARIOS_URL      = "https://5u7y1wuckk.execute-api.us-east-1.amazonaws.com";
+const CURSOS_URL        = "https://wunxwubsf6.execute-api.us-east-1.amazonaws.com";
+const INSCRIPCIONES_URL = "https://m2islafbrf.execute-api.us-east-1.amazonaws.com";
 const CLIENT_ID         = "308p0a6ua6nnkod2b1e2lu6721";
+const REGION            = "us-east-1";
 // ============================================================
 
 const box = { border: "1px solid #ddd", borderRadius: 8, padding: 16, margin: "12px 0" };
